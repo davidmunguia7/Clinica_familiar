@@ -1,2 +1,4 @@
 "Primera frase de practica"  
 "Tercera frase, editando el primer archivo" 
+"Tercera frase, editando el primer archivo" 
+"registro y archivado de pacientes, editando el primer archivo" 
